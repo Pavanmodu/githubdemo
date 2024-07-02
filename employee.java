@@ -6,4 +6,8 @@ private string name;
 private string department;
 
 public int getId(){return this.id};
+public int getid();
+
+
+adding onemore line to employee file
 }
